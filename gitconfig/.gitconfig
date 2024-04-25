@@ -1,9 +1,10 @@
 [user]
-	name = Jan Skiba
-	email = jan.skiba@dkfz-heidelberg.de
+	name = Zachariah Frank
+	email = zachariah.frank@dkfz-heidelberg.de
 [init]
 	defaultBranch = main
 [core]
-    editor = vim
+  editor = vim
+  excludesfile = ~/.gitignore
 [url "https://github.com/"]
     insteadOf = git@github.com:
